@@ -1,0 +1,13 @@
+
+  {
+    "name": "planets2",
+    "version": "1.0.0",
+    "scripts": {
+      "build": "npm run setup:server",
+      "setup:app": "npm run setup:server && npm run setup:client",
+      "setup:client": "cd planets2.client && npm i",
+      "setup:server": "cd planets2 && npm i",
+      "start": "node planets2/index.js"
+    }
+  }
+  

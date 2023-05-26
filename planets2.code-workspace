@@ -2,12 +2,12 @@
 {
   "folders": [
     {
-      "path": "planets2.client",
-      "name": "client"
+      "name": "client",
+      "path": "planets2.client"
     },
     {
-      "path": "planets2",
-      "name": "server"
+      "name": "server",
+      "path": "planets2"
     }
   ],
   "settings": {
